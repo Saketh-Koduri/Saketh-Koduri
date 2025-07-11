@@ -1,27 +1,37 @@
-# Hi there! 👋 I'm Saketh Koduri
+👋 Hi, I'm Saketh Koduri
+🧠 About Me
+I'm a passionate and curious developer with a strong interest in Data Structures & Algorithms (DSA) using Python, and in building powerful web applications using Django, Bootstrap, and the MERN Stack. I enjoy solving real-world problems and continuously expanding my knowledge in both backend and full-stack development.
 
-## About Me
-I am a dedicated and passionate data scientist with a keen interest in leveraging data to extract meaningful insights. My journey in the world of data science has equipped me with a diverse skill set, allowing me to tackle complex problems and derive valuable conclusions from data.
+💡 What I’m Into
+🧮 DSA in Python: I love solving algorithmic problems and sharpening my problem-solving skills through Python.
 
-## 🔍 What I Do
-- **Data Analysis:** I love exploring and analyzing datasets to discover hidden patterns and trends.
-- **Machine Learning:** Applying machine learning algorithms to build predictive models is one of my strengths.
-- **Data Visualization:** I believe in the power of visualizing data to effectively communicate findings.
+🌐 Full-Stack Web Development:
+
+Backend: Django, Express.js, Node.js
+
+Frontend: React, Bootstrap
+
+Database: SQLite, SQL
 
 
-## 🚀 What Drives Me
-I am fueled by the excitement of solving problems and making informed decisions through data-driven insights. My goal is to contribute to innovative solutions that have a positive impact on businesses and society.
 
-## 🛠️ Technologies I Work With
-- **Programming Languages:** Python, R
-- **Data Science Libraries:** Pandas, NumPy, Scikit-Learn, TensorFlow, PyTorch
-- **Visualization Tools:** Matplotlib, Seaborn, Tableau
-- **Database Management:** SQL, MongoDB
+🚀 What Drives Me
+I'm driven by the thrill of building efficient, scalable systems and writing clean, maintainable code. Whether it's optimizing an algorithm or crafting a full-stack web application, I aim to create impactful solutions.
 
-## 🌱 Learning and Growth
-The field of data science is dynamic and ever-evolving. I am committed to continuous learning, staying updated with the latest advancements, and enhancing my skills to tackle new challenges.
+🛠️ Technologies & Tools
+Languages: Python, JavaScript
 
-## 📫 Let's Connect
-I'm always open to collaboration, discussions, and learning from others. Feel free to reach out to me via [LinkedIn](your-linkedin-profile) or [Twitter](your-twitter-handle).
+Frameworks: Django, React, Express.js, Node.js
 
-Thanks for stopping by! Let's explore the world of data together! 🚀
+Styling: Bootstrap, Tailwind CSS
+
+Databases: MongoDB, SQL
+
+Tools: Git, GitHub, Postman, VS Code
+
+🌱 Always Learning
+I believe in lifelong learning and am always exploring new technologies, tools, and frameworks to improve my development workflow and problem-solving skills.
+
+🤝 Let’s Connect
+I’m open to collaborations, project ideas, or just chatting about tech and career growth.
+Find me on LinkedIn or Twitter — let’s build something awesome together!
